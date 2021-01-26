@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Galeria de Produtos - Celular</title>
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover:not(.active) {
+            background-color: #111;
+        }
+
+        .active {
+            background-color: #4CAF50;
+        }
+
+        /*
+        div.gallery {
+            margin: 5px;
+            border: 1px solid #ccc;
+            float: left;
+            width: 180px;
+        }
+
+        div.gallery:hover {
+            border: 1px solid #777;
+        }
+
+        div.gallery img {
+            width: 100%;
+            height: auto;
+        }
+
+        div.desc {
+            padding: 15px;
+            text-align: center;
+        }
+    */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #f1f1f1;
+            padding: 20px;
+            font-family: Arial;
+        }
+
+        /* Center website */
+        .main {
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h1 {
+            font-size: 50px;
+            word-break: break-all;
+        }
+
+        .row {
+            margin: 8px -16px;
+        }
+
+        /* Add padding BETWEEN each column */
+        .row,
+        .row>.column {
+            padding: 8px;
+        }
+
+        /* Create four equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 25%;
+        }
+
+        /* Clear floats after rows */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Content */
+        .content {
+            background-color: white;
+            padding: 10px;
+        }
+
+        /* Responsive layout - makes a two column-layout instead of four columns */
+        @media screen and (max-width: 900px) {
+            .column {
+                width: 50%;
+            }
+        }
+
+        /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+        @media screen and (max-width: 600px) {
+            .column {
+                width: 100%;
+            }
+        }
+
+        .btn {
+            border: none;
+            /* Remove borders */
+            color: white;
+            /* Add a text color */
+            padding: 14px 28px;
+            /* Add some padding */
+            cursor: pointer;
+            /* Add a pointer cursor on mouse-over */
+        }
+
+        .danger {
+            background-color: #f44336;
+        }
+
+        /* Red */
+        .danger:hover {
+            background: #da190b;
+        }
+    </style>
+</head>
+
+<body>
+    <ul>
+        <li><a class="active" href="celular.html">Celular</a></li>
+        <li><a href="notebook.html">Notebook</a></li>
+        <li><a href="tablet.html">Tablet</a></li>
+    </ul>
+
+    <div class="row">
+        <div class="column">
+            <div class="content">
+                <img src="imagens/lgb220.jpg" alt="Celular LG B220 Dual" style="width:100%">
+                <h3>Celular LG B220 Dual</h3>
+                <p><b>Marca:</b>LG</p>
+                <p><b>Preço:</b>R$ 139,99 <button class="btn danger">Promoção</button></p>
+                <p>Celular LG B220 Dual - Desbloqueado - Preto</p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img src="imagens/nokia23.jpg" alt="Nokia 2.3" style="width:100%">
+                <h3>Nokia 2.3</h3>
+                <p><b>Marca:</b>Nokia</p>
+                <p><b>Preço:</b>R$ 899,00</p>
+                <p>Smartphone Nokia 2.3 Dual Chip Android Tela 6.2" 32GB 4G Câmera 13MP +2MP - Verde Ciano</p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img src="imagens/samsungA10s.jpg" alt="Samsung Galaxy A10s" style="width:100%">
+                <h3>Samsung Galaxy A10s</h3>
+                <p><b>Marca:</b>Samsung</p>
+                <p><b>Preço:</b>R$ 929,07</p>
+                <p>Smartphone Samsung Galaxy A10s Dual Chip Android 9.0 Tela 6.2” Octa-Core 32GB 4G Câmera 13MP+2MP -
+                    Azul</p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img src="imagens/MotoG5g.jpg" alt="Smartphone Moto G 5G" style="width:100%">
+                <h3>Smartphone Moto G 5G</h3>
+                <p><b>Marca:</b>Motorola</p>
+                <p><b>Preço:</b>R$ 2799,00</p>
+                <p>Smartphone Moto G 5G 128GB Dual Chip Android 10 Tela 6.7" Qualcomm Snapdragon 750 Câmera tripla 48MP
+                    + 8MP + 2MP Frontal 16MP - Preto Prisma</p>
+                <p>Celular de última geração da Motorola, ótimo para trabalhar, navegar e jogar.</p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img src="imagens/iphone11promax.jpg" alt="iPhone 11 Pro Max" style="width:100%">
+                <h3>iPhone 11 Pro Max</h3>
+                <p><b>Marca:</b>Apple</p>
+                <p><b>Preço:</b>R$ 7055,10</p>
+                <p>iPhone 11 Pro Max 64GB Verde Meia-Noite 6.5" iOS 4G + Wi-Fi Câmera 12MP - Apple</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

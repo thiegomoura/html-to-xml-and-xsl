@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="celular.xsl"?>
+<produtos>
+    <produto>
+        <nome>Smartphone Moto G 5G</nome>
+        <descricao>Smartphone Moto G 5G 128GB Dual Chip Android 10 Tela 6.7" Qualcomm Snapdragon 750 Câmera tripla 48MP + 8MP + 2MP Frontal 16MP - Preto Prisma</descricao>
+        <descricao>Celular de última geração da Motorola, ótimo para trabalhar, navegar e jogar.</descricao>
+        <preco>2799.00</preco>
+        <imagem>MotoG5g.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>Motorola</marca>
+    </produto>
+    <produto>
+        <nome>Celular LG B220 Dual</nome>
+        <descricao>Celular LG B220 Dual - Desbloqueado - Preto</descricao>
+        <preco>139.99</preco>
+        <imagem>lgb220.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>LG</marca>
+    </produto>
+    <produto>
+        <nome>Samsung Galaxy A10s</nome>
+        <descricao>Smartphone Samsung Galaxy A10s Dual Chip Android 9.0 Tela 6.2” Octa-Core 32GB 4G Câmera 13MP+2MP - Azul</descricao>
+        <preco>929.07</preco>
+        <imagem>samsungA10s.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>Samsung</marca>
+    </produto>
+    <produto>
+        <nome>Nokia 2.3</nome>
+        <descricao>Smartphone Nokia 2.3 Dual Chip Android Tela 6.2" 32GB 4G Câmera 13MP +2MP - Verde Ciano</descricao>
+        <preco>899.00</preco>
+        <imagem>nokia23.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>Nokia</marca>
+    </produto>
+    <produto>
+        <nome>iPhone 11 Pro Max</nome>
+        <descricao>iPhone 11 Pro Max 64GB Verde Meia-Noite 6.5" iOS 4G + Wi-Fi Câmera 12MP - Apple</descricao>
+        <preco>7055.10</preco>
+        <imagem>iphone11promax.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>Apple</marca>
+    </produto>
+    <produto>
+        <nome>Xiaomi Redmi Note 8 Pro</nome>
+        <descricao>O Redmi Note 8 Pro é um smartphone Android avançado e abrangente em todos os pontos de vista com algumas características excelentes.</descricao>
+        <preco>1599.00</preco>
+        <imagem>xiaominote8pro.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>Xiaomi</marca>
+    </produto>
+    <produto>
+        <nome>Xiaomi Redmi 9T</nome>
+        <descricao>O Redmi Note 9T é um smartphone Android de bom nível, ótimo para fotos, que pode satisfazer até o mais exigente dos usuários.</descricao>
+        <preco>2999.14</preco>
+        <imagem>xiaomiredminote9t.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>Xiaomi</marca>
+    </produto>
+    <produto>
+        <nome>Xiaomi Mi Note 10 Pro</nome>
+        <descricao>O Xiaomi Mi Note 10 Pro é um produto com poucos concorrentes em termos de multimídia graças à câmera de 108 megapixels que permite ao Xiaomi Mi Note 10 Pro tirar fotos fantásticas.</descricao>
+        <preco>4179.00</preco>
+        <imagem>xiaomiminote10pro.jpg</imagem>
+        <tipo>celular</tipo>
+        <marca>Xiaomi</marca>
+    </produto>
+    <produto>
+        <nome>Notebook Acer Aspire 3 A315-56-35ET</nome>
+        <descricao>Notebook Acer Aspire 3 A315-56-35ET 10ª Intel Core i3 8GB 512GB SSD W10 15,6''</descricao>
+        <preco>3199.99</preco>
+        <imagem>AcerAspire3.jpg</imagem>
+        <tipo>notebook</tipo>
+        <marca>Acer</marca>
+    </produto>
+    <produto>
+        <nome>Notebook Ultrafino Lenovo Ideapad S145</nome>
+        <descricao>Notebook Ultrafino Lenovo Ideapad S145 Intel Core i3-8130U 8GB 1TB 15.6" W10 - Prata</descricao>
+        <preco>2759.99</preco>
+        <imagem>LenovoIdeapad.jpg</imagem>
+        <tipo>notebook</tipo>
+        <marca>Lenovo</marca>
+    </produto>
+    <produto>
+        <nome>Notebook Gamer 2AM E550</nome>
+        <descricao>Notebook Gamer 2AM E550 Intel Core I7 8GB (GeForce GTX 1050 com 3GB) 256GB SSD IPS Full HD 15,6" Freedos Cinza Escuro</descricao>
+        <descricao>Notebook gamer com o melhor custo/benefício da categoria.</descricao>
+        <preco>5599.99</preco>
+        <imagem>NotebookGamer2AM.jpg</imagem>
+        <tipo>notebook</tipo>
+        <marca>2AM</marca>
+    </produto>
+    <produto>
+        <nome>Notebook Positivo Motion Q464B</nome>
+        <descricao>Notebook Positivo Motion Q464B Intel Atom Quad core 4GB 64GB SSD + 64GB Nuvem 14" W10 Vermelho</descricao>
+        <preco>1449.99</preco>
+        <imagem>NotebookPositivo.jpg</imagem>
+        <tipo>notebook</tipo>
+        <marca>Positivo</marca>
+    </produto>
+    <produto>
+        <nome>Notebook Compaq Presario CQ-25</nome>
+        <descricao>Notebook Compaq Presario CQ-25 Intel Pentium 4GB 120GB SSD 14''</descricao>
+        <preco>1599.99</preco>
+        <imagem>NotebookCompaq.jpg</imagem>
+        <tipo>notebook</tipo>
+        <marca>Compaq</marca>
+    </produto>
+    <produto>
+        <nome>Notebook Dell Alienware Area-51M R2</nome>
+        <descricao>O Novo Alienware Area-51m R2 é o notebook gamer mais poderoso e inovador. Ele introduz o nosso novo design industrial Legend, evolução em um design único.</descricao>
+        <preco>33509.00</preco>
+        <imagem>notebookdellarea51r2.jpg</imagem>
+        <tipo>notebook</tipo>
+        <marca>Dell</marca>
+    </produto>
+    <produto>
+        <nome>Notebook Gamer Predator PH315</nome>
+        <descricao>Notebook Gamer Predator PH315-52-79VM Ci7 16GB 256GB 1TB. Invoque sua força, jogue como pro.</descricao>
+        <preco>33509.00</preco>
+        <imagem>notebookgamepredatorph315.jpg</imagem>
+        <tipo>notebook</tipo>
+        <marca>Acer</marca>
+    </produto>
+    <produto>
+        <nome>Tablet Samsung Galaxy A7</nome>
+        <descricao>Tablet Samsung Galaxy A7 64GB Wi-Fi 4G Tela 10.4" - Octa-Core 2.0GHz - Grafite</descricao>
+        <preco>1439.10</preco>
+        <imagem>GalaxyA7.jpg</imagem>
+        <tipo>tablet</tipo>
+        <marca>Samsung</marca>
+    </produto>
+    <produto>
+        <nome>Tablet Positivo Twist Tab T770B</nome>
+        <descricao>Tablet Positivo Twist Tab T770B 32GB Wi-Fi Tela 7" Android QuadCore de 1,5 GHz - Cinza Escuro</descricao>
+        <preco>399.00</preco>
+        <imagem>PositivoTwistTab.jpg</imagem>
+        <tipo>tablet</tipo>
+        <marca>Positivo</marca>
+    </produto>
+    <produto>
+        <nome>Tablet Ptb7qsg 3g Philco</nome>
+        <descricao>Tablet Ptb7qsg 3g Philco, Android 8.1 E Tela Multi-toque</descricao>
+        <preco>449.99</preco>
+        <imagem>TabletPtb7qsg.jpg</imagem>
+        <tipo>tablet</tipo>
+        <marca>Philco</marca>
+    </produto>
+    <produto>
+        <nome>Tablet Multilaser M7 3G Plus NB304</nome>
+        <descricao>Tablet Multilaser M7 3G Plus NB304,Preto,Tela 7,Dual Chip,Wi-fi+3G,Bluetooth,Câm traseira 2MP e 16GB</descricao>
+        <preco>494.10</preco>
+        <imagem>MultilaserM7.jpg</imagem>
+        <tipo>tablet</tipo>
+        <marca>Multilaser</marca>
+    </produto>
+    <produto>
+        <nome>Tablet Samsung Galaxy Tab S5e</nome>
+        <descricao>Tablet Samsung Galaxy Tab S5e 64GB Wi-Fi 4G Tela 10.5" Android Octa-Core 2.0GHz - Prata</descricao>
+        <preco>2499.00</preco>
+        <imagem>GalaxyTabS5e.jpg</imagem>
+        <tipo>tablet</tipo>
+        <marca>Samsung</marca>
+    </produto>
+    <produto>
+        <nome>Tablet Teclast P20HD SC9863A</nome>
+        <descricao>RAM grande de 4 GB para manter o sistema funcionando corretamente. Além disso, a ROM 64GB e o cartão TF de 128GB podem suportar totalmente todos os seus aplicativos e necessidades de mídia.</descricao>
+        <preco>710,35</preco>
+        <imagem>teclastp20hd.jpg</imagem>
+        <tipo>tablet</tipo>
+        <marca>Teclast</marca>
+    </produto>
+    <produto>
+        <nome>Tablet Samsung Galaxy Tab S6 Lite</nome>
+        <descricao>O Galaxy Tab S6 Lite é um tablet que o ajuda a se preparar para todos os desafios que a vida tem para lhe oferecer.</descricao>
+        <preco>2.196,81</preco>
+        <imagem>galaxytabs6.jpg</imagem>
+        <tipo>tablet</tipo>
+        <marca>Samsung</marca>
+    </produto>
+</produtos>
