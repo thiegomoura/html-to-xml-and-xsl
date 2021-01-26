@@ -33,4 +33,4 @@ Ao final do trabalho, espera-se a mesma apresentação de informações dos arqu
 4. Push (git push origin novo-recurso)
 5. Crie um novo Pull Request
 
-:---: Made by: [thiegomoura](https://github.com/thiegomoura) \| Practice makes perfect :ballot_box_with_check: :---:
+<h3 class="align-center">Made by [:tm:](https://github.com/thiegomoura)</h3>
