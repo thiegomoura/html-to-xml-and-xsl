@@ -6,7 +6,7 @@ Solicitado a criação de um arquivo XSL que tenha a exibição semelhante ao ar
 
 Ao final do trabalho, espera-se a mesma apresentação de informações dos arquivos HTML, porém utilizando XSL (para percorrer e transformar os dados do XML).
 
-## Informações Gerais:
+## Informações Gerais
 
 - O arquivo produtos.xml será utilizado como base para criar os 3 outros arquivos XSL, deste modo, ele deverá ser copiado na íntegra e renomeado para celular.xml, notebook.xml e tablet.xml, para que ele possa ter os seus respectivos arquivos XSL.
 
@@ -25,3 +25,12 @@ Ao final do trabalho, espera-se a mesma apresentação de informações dos arqu
 [Dica para utilizar o value-of entre aspas.](https://stackoverflow.com/questions/4585054/xslt-single-and-double-quotes-in-form-input-value-attribute)
 
 [Dica para condições do IF](http://faculty.madisoncollege.edu/schmidt/xml/xmlcond.html)
+
+## Contribuição
+1. Faça o fork do projeto (https://github.com/<user_name>/<repository_name>/fork)
+2. Crie uma branch para sua modificação (git checkout -b novo-recurso)
+3. Faça o commit (git commit -am 'Adicionando um novo recurso...')
+4. Push (git push origin novo-recurso)
+5. Crie um novo Pull Request
+
+:---: Made by: [thiegomoura](https://github.com/thiegomoura) \| Practice makes perfect :ballot_box_with_check: :---:
