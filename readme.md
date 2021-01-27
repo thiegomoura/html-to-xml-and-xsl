@@ -1,10 +1,19 @@
 # Projeto final da disciplina de Tecnologia de Dados para Internet
+<div align=justify>
 
 ## Descrição da atividade
 
 Solicitado a criação de um arquivo XSL que tenha a exibição semelhante ao arquivo HTML de modelo, ou seja, o arquivo HTML será utilizado como base para a criação do arquivo XSL em questão.
 
 Ao final do trabalho, espera-se a mesma apresentação de informações dos arquivos HTML, porém utilizando XSL (para percorrer e transformar os dados do XML).
+
+<div align=center>
+
+![layout-default](img/layout.jpg)
+
+> Layout padrão da atividade (conforme modelo)
+
+</div>
 
 ## Informações Gerais
 
@@ -26,6 +35,7 @@ Ao final do trabalho, espera-se a mesma apresentação de informações dos arqu
 
 [Dica para condições do IF](http://faculty.madisoncollege.edu/schmidt/xml/xmlcond.html)
 
+
 ## Contribuição
 1. Faça o fork do projeto (https://github.com/<user_name>/<repository_name>/fork)
 2. Crie uma branch para sua modificação (git checkout -b novo-recurso)
@@ -33,4 +43,8 @@ Ao final do trabalho, espera-se a mesma apresentação de informações dos arqu
 4. Push (git push origin novo-recurso)
 5. Crie um novo Pull Request
 
-<h3 align=center>Made by <a href="https://github.com/thiegomoura">:tm:</h3>
+</div>
+
+----------
+
+<p align=center>Made with ☕ and 🖤 by <a href="https://github.com/thiegomoura">Thiego.</p>
